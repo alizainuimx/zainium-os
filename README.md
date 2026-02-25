@@ -1,1 +1,1 @@
-# zainuim-os
+# zainium-os
